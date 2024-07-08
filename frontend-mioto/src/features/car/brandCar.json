@@ -1,0 +1,79 @@
+{
+    "brands": [
+        {
+            "name": "Tất cả"
+        },
+        {
+            "name": "Audi",
+            "logo": "https://n1-cstg.mioto.vn/m/vehicle-makes/Audi.png"
+        },
+        {
+            "name": "BMW",
+            "logo": "https://n1-cstg.mioto.vn/m/vehicle-makes/BMW.png"
+        },
+        {
+            "name": "Bentley",
+            "logo": "https://n1-cstg.mioto.vn/m/vehicle-makes/Bentley.png"
+        },
+        {
+            "name": "Ford",
+            "logo": "https://n1-cstg.mioto.vn/m/vehicle-makes/Ford.png"
+        },
+        {
+            "name": "Honda",
+            "logo": "https://n1-cstg.mioto.vn/m/vehicle-makes/Honda.png"
+        },
+        {
+            "name": "Hyundai",
+            "logo": "https://n1-cstg.mioto.vn/m/vehicle-makes/Hyundai.png"
+        },
+        {
+            "name": "Kia",
+            "logo": "https://n1-cstg.mioto.vn/m/vehicle-makes/Kia.png"
+        },
+        {
+            "name": "Lexus",
+            "logo": "https://n1-cstg.mioto.vn/m/vehicle-makes/Lexus.png"
+        },
+        {
+            "name": "Mazda",
+            "logo": "https://n1-cstg.mioto.vn/m/vehicle-makes/Mazda.png"
+        },
+        {
+            "name": "Mercedes",
+            "logo": "https://n1-cstg.mioto.vn/m/vehicle-makes/Mercedes.png"
+        },
+        {
+            "name": "Mitsubishi",
+            "logo": "https://n1-cstg.mioto.vn/m/vehicle-makes/Mitsubishi.png"
+        },
+        {
+            "name": "Nissan",
+            "logo": "https://n1-cstg.mioto.vn/m/vehicle-makes/Nissan.png"
+        },
+        {
+            "name": "Peugeot",
+            "logo": "https://n1-cstg.mioto.vn/m/vehicle-makes/Peugeot.png"
+        },
+        {
+            "name": "Suzuki",
+            "logo": "https://n1-cstg.mioto.vn/m/vehicle-makes/Suzuki.png"
+        },
+        {
+            "name": "Toyota",
+            "logo": "https://n1-cstg.mioto.vn/m/vehicle-makes/Toyota.png"
+        },
+        {
+            "name": "Vinfast",
+            "logo": "https://n1-cstg.mioto.vn/m/vehicle-makes/Vinfast.png"
+        },
+        {
+            "name": "Volkswagen",
+            "logo": "https://n1-cstg.mioto.vn/m/vehicle-makes/Volkswagen.png"
+        },
+        {
+            "name": "Volvo",
+            "logo": "https://n1-cstg.mioto.vn/m/vehicle-makes/Volvo.png"
+        }
+    ]
+}

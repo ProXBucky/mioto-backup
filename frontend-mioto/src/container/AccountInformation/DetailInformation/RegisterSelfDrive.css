@@ -1,0 +1,5 @@
+/* CSS */
+/* Thay đổi màu border của phần tử squaredThree khi input được chọn */
+.squaredThree input[type="checkbox"]:checked+.description {
+    border: 0.5px solid #5fcf86;
+}

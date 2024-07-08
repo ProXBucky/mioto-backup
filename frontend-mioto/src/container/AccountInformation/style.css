@@ -1,0 +1,7 @@
+a.active div {
+    border-left: 4px solid #5fcf86;
+}
+
+a.active div p {
+    font-weight: bold;
+}

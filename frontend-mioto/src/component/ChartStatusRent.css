@@ -1,0 +1,10 @@
+.chart-container {
+    height: 350px;
+    width: 350px;
+    /* Bạn có thể điều chỉnh chiều rộng nếu cần */
+}
+
+.chart-container canvas {
+    height: 100% !important;
+    width: 100% !important;
+}
